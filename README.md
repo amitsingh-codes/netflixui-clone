@@ -2,6 +2,6 @@
 
 <h>It is a project which I created while learning HTML/CSS</h> 
 <br>
-<h>. The key topic i learnt from this project was @media screen (in which if you change the devices the web page will change it self to)
+<p>The key topic i learnt from this project was @media screen (in which if you change the devices the web page will change it self to) <p>
 <br>
 https://amitsingh-codes.github.io/netflixui-clone/  
